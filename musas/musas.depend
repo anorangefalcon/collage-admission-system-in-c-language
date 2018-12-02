@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1542108448 source:c:\users\user\desktop\collage sytem\musas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"interface.h"
+	"stud_functions.h"
+	"conio.h"
+	"login_signup.h"
+	"PROGRAM_BRAIN.h"
+	"admin_functions.h"
+	<ctype.h>
+	<setjmp.h>
+
+1541933779 c:\users\user\desktop\collage sytem\musas\interface.h
+	<windows.h>
+
+1542101476 c:\users\user\desktop\collage sytem\musas\stud_functions.h
+
+1541934024 c:\users\user\desktop\collage sytem\musas\login_signup.h
+	"conio.h"
+
+1542089060 c:\users\user\desktop\collage sytem\musas\program_brain.h
+
+1542108920 c:\users\user\desktop\collage sytem\musas\admin_functions.h
+
+1542108981 source:c:\users\user\desktop\collage sytem final\musas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"interface.h"
+	"stud_functions.h"
+	"conio.h"
+	"login_signup.h"
+	"PROGRAM_BRAIN.h"
+	"admin_functions.h"
+	<ctype.h>
+	<setjmp.h>
+
+1541933779 c:\users\user\desktop\collage sytem final\musas\interface.h
+	<windows.h>
+
+1542101476 c:\users\user\desktop\collage sytem final\musas\stud_functions.h
+
+1541934024 c:\users\user\desktop\collage sytem final\musas\login_signup.h
+	"conio.h"
+
+1542089060 c:\users\user\desktop\collage sytem final\musas\program_brain.h
+
+1542109003 c:\users\user\desktop\collage sytem final\musas\admin_functions.h
+
