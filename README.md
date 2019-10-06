@@ -1,1 +1,1 @@
-# collage-admission-system-in-c-language
+# college-admission-system-in-c-language
